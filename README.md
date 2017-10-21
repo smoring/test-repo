@@ -1,2 +1,1 @@
-# test-repo
-First repo for Coursera data science course
+### This is a smaller heading
